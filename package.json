@@ -1,0 +1,18 @@
+{
+  "name": "link.xmaho.simpleinputsystemassets",
+  "version": "0.0.1",
+  "displayName": "Simple Input System Assets",
+  "description": "Utility Assets for Input System",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.0-preview.6"
+  },
+  "keywords": [
+    "input"
+  ],
+  "author": {
+    "name": "FORNO",
+    "email": "forno@xmaho.link",
+    "url": "https://github.com/forno"
+  }
+}
